@@ -22,7 +22,7 @@ Password: *mypass321*
 4. Click `save`
 5. Click `your_image_name`
 6. Click `Edited photo:` hyperlink
-*7. `Profit!!!`*
+7. `Profit!!!`
                 
 ----
 
@@ -35,4 +35,10 @@ Password: *mypass321*
     "edited_photo":"link_to_your_edited_photo.jpg"
 }
 ```
-*4. `Profit!!!`*
+4. `Profit!!!`
+
+
+### Example
+
+![](https://github.com/toren332/face_detection_API/blob/master/media/original/IMG_2088_4XVzRUa.jpg)
+![](https://github.com/toren332/face_detection_API/blob/master/media/edited/IMG_2088_4XVzRUa.jpg)
