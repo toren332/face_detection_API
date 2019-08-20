@@ -1,0 +1,10 @@
+Django
+djangorestframework
+pandas
+psycopg2-binary
+matplotlib
+numpy<1.17
+opencv-python
+django-createsuperuserwithpassword
+Pillow
+
