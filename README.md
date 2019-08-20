@@ -3,7 +3,7 @@
 
 ### Installation
 
-Everpoint requires [Docker](https://www.docker.com/) to run.
+API for FACE_DETECTION requires [Docker](https://www.docker.com/) to run.
 
 ```sh
 $ cd face_detection_API
